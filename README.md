@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alfredo Mercado
+# 👋 Hola, soy Alfredo Mercado Leal
 
 🎓 Estudiante de Ingeniería de Sistemas  
 💻 Backend Developer Junior | Python • REST APIs • MySQL
@@ -80,6 +80,8 @@ API REST para gestión de usuarios y productos mediante endpoints CRUD y respues
 
 ## 📫 Contacto
 
-📧 titoleal41@gmail.com  
+📧 titoleal41@gmail.com 
+📧 titomerle6@gmail.com 
+
 
 🔎 Abierto a oportunidades como Backend Developer Junior / Practicante de Desarrollo.
