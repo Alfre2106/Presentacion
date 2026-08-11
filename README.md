@@ -158,7 +158,7 @@ Sistema automático para cuidado de plantas con lógica basada en sensores para 
 
 * 📧 **Correo:** titoleal41@gmail.com
 
-
+* 📧 **Correo:** titomerle6@gmail.com
 
 
 
